@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @martinnanchev
-- 👀 I’m interested in AWS
+- 👀 I’m interested in AWS and I am also security fanatic. I have created automation to remedicate HIGH and CRITICAL Security hub findings automatically
 - 🌱 I’m currently teaching AWS and terraform to other peaople
-- 💞️ I’m looking to collaborate on AWS Cloud migrations and architecting workloads
+- 💞️ I’m looking to collaborate on AWS Cloud migrations and architecting workloads and improving security in the ⛅
 - 📫 How to reach me -> martin2754@gmail.com
 
 <!---
