@@ -1,7 +1,7 @@
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif) 
 - 👋 Hi, I’m @martinnanchev
 - 👀 I am a big AWS enthusiast and fanatic.
-- 🌱 I’m currently teaching AWS and terraform other peaople
+- 🌱 I’m currently teaching AWS and terraform other people
 - 💞️ I’m looking to collaborate on AWS Cloud migrations and architecting workloads and improving security in the ⛅
 - 📫 How to reach me -> ♠martin_nanchev@pokerstarsint.com♥
 
