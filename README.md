@@ -10,5 +10,5 @@
 martinnanchev/martinnanchev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-One of my funny designs:
-![alt text](./aws.jpeg)
+One of my funny designs, named Security hub Craxes to the Daemon Targaryan dragon, which remediates critical and high Security hub findings as detective control. One thing that should be mentioned is that besides detective control a preventive control is needed using SCPs
+![alt text](./aws.svg)
