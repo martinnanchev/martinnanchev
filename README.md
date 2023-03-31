@@ -1,5 +1,5 @@
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif) 
-- 👋 Hi, I’m @martinnanchev
+- 👋 Hi, I’m Martin Nanchev
 - 👀 Welcome to the world of AWS where the possibilities are endless and the innovations are boundless! I'm thrilled to introduce you to Martin Nanchev - an AWS Community Builder, Authorized Instructor, and AWS Certified expert.
 - 🌱 Martin's passion for all things AWS is contagious, and he's dedicated to sharing his knowledge with others. As an instructor, he's committed to teaching the latest techniques in AWS and Terraform, empowering others to leverage the power of these technologies for their own projects.
 - 💞️ But Martin's expertise doesn't end there. He's always on the lookout for exciting collaboration opportunities, particularly in the realm of AWS Cloud migrations and architecting workloads. And with a keen eye for security, Martin is dedicated to improving security measures in the cloud to ensure the safety of all users ⛅
