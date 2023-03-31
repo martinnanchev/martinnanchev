@@ -11,4 +11,4 @@ martinnanchev/martinnanchev is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 Diabetes Application to simulate blood sugar
-![Simulate blood glucose](./MLOps)
+![Simulate blood glucose](./MLOps.svg)
