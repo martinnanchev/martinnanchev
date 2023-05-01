@@ -1,9 +1,11 @@
 ![](/MeagerHardtofindAlbertosaurus-size_restricted.gif) 
-- 👋 Hi, I’m Martin Nanchev
-- 👀 Welcome to the world of AWS where the possibilities are endless and the innovations are boundless! I'm thrilled to introduce you to Martin Nanchev - an AWS Community Builder, Authorized Instructor, and AWS Certified expert.
-- 🌱 Martin's passion for all things AWS is contagious, and he's dedicated to sharing his knowledge with others. As an instructor, he's committed to teaching the latest techniques in AWS and Terraform, empowering others to leverage the power of these technologies for their own projects.
-- 💞️ But Martin's expertise doesn't end there. He's always on the lookout for exciting collaboration opportunities, particularly in the realm of AWS Cloud migrations and architecting workloads. And with a keen eye for security, Martin is dedicated to improving security measures in the cloud to ensure the safety of all users ⛅
-- 📫 So if you're ready to take your AWS game to the next level, look no further than Martin Nanchev. Connect with him today at ♠martin_nanchev@pokerstarsint.com♥ and join the ranks of those who have discovered the power of AWS with his guidance.
+- 👀 Hey there, adventurer! Are you ready to embark on a thrilling journey into the world of AWS? Buckle up and get ready to explore the boundless possibilities and endless innovations that await you. And who better to guide you than the legendary Martin Nanchev - an AWS Community Builder, Authorized Instructor, and AWS Certified expert extraordinaire!
+
+- 🌱 Martin's passion for all things AWS is truly contagious. He's not just a knowledgeable instructor, he's a dedicated mentor who is committed to sharing his expertise with others. Whether you're a beginner or an experienced pro, Martin will empower you with the latest techniques in AWS and Terraform, giving you the tools you need to take your projects to the next level.
+
+- 💞️ But that's just the tip of the iceberg. Martin is always on the lookout for exciting collaboration opportunities, particularly in the realm of AWS Cloud migrations and architecting workloads. And with his keen eye for security, Martin is dedicated to improving security measures in the cloud to ensure the safety of all users. He's a true champion of AWS innovation and a trailblazer in the world of cloud computing.
+
+- 📫 So if you're ready to join the ranks of those who have discovered the power of AWS with Martin's guidance, look no further. Drop him a line at ♠martin_nanchev@pokerstarsint.com♥ and get ready to unleash your full potential. Oh, and did we mention that Martin is also a fellow community builder with all 12 AWS Certifications under his belt? He's a force to be reckoned with, and he's ready to help you take on any IoT, mobile application, or telecommunications project that comes your way. Let's do this!
 
 
 <!---
